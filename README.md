@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaronmanalilil
+- 👋 Hi, I’m @aaronmanalili
 - I am a CS Major in Montclair State University.
 - 👀 I’m interested in Programming, Coding, and creating Software Synthesizers and Audio Plugins to be used in Music Production.
 - 🌱 I’m currently learning JavaScript, Python, C, C++, and Java.
